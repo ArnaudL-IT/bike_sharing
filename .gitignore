@@ -1,0 +1,6 @@
+# Entire directories
+env/
+data/
+
+# Type of files
+*.csv
