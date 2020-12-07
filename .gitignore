@@ -4,3 +4,6 @@ data/
 
 # Type of files
 *.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
