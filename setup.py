@@ -2,7 +2,8 @@ from setuptools import find_packages, setup
 
 setup(
     name='my_package',
-    packages=find_packages(),
+#    packages=find_packages(),
+    packages = ['src', 'src.data_processing'],
     version='0.1.0',
 #    description='{{ cookiecutter.description }}',
 #    author='{{ cookiecutter.author_name }}',
