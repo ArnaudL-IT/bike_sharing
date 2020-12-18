@@ -1,6 +1,7 @@
 # Entire directories
 env/
 data/
+*.egg-info/
 
 # Type of files
 *.csv
